@@ -1,7 +1,7 @@
 
 var to = 'Friend!';
 var gift_url = 'https://www.facebook.com/profile.php?id=100018087916925';
-var gift_image_url = 'logo.png';
+var gift_image_url = 'logo.PNG';
 
 var nametag = document.getElementById("nametag");
 var present = document.getElementById("present");
